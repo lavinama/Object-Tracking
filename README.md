@@ -2,7 +2,7 @@
 
 Tracking multi-objects using DeepSort.
 
-<img src="output/out_deepsort_nvidia.mp4" alt="output_deepsort" /> 
+https://user-images.githubusercontent.com/70475094/197843241-b1c5314f-c9ab-4001-9138-567670641201.mp4
 
 ### Structure of `DeepSORT_my_version.ipynb`:
 1.  Detect the objects: Load a trained **YOLOv5** network
@@ -13,7 +13,6 @@ Tracking multi-objects using DeepSort.
 Extensions:
 1. Change the **Non Maxima Suppression** formula to improve performance.
 2. Use **age** to reduce the number of false positives and false negatives we get.
-
 
 ## Download dataset
 
